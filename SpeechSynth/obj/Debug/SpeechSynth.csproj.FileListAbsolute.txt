@@ -1,0 +1,10 @@
+C:\Users\George\Documents\Visual Studio 2015\Projects\SpeechSynth\SpeechSynth\bin\Debug\SpeechSynth.exe.config
+C:\Users\George\Documents\Visual Studio 2015\Projects\SpeechSynth\SpeechSynth\bin\Debug\SpeechSynth.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects\SpeechSynth\SpeechSynth\bin\Debug\SpeechSynth.pdb
+C:\Users\George\Documents\Visual Studio 2015\Projects\SpeechSynth\SpeechSynth\obj\Debug\SpeechSynth.exe
+C:\Users\George\Documents\Visual Studio 2015\Projects\SpeechSynth\SpeechSynth\obj\Debug\SpeechSynth.pdb
+C:\PROGRAMMING\_Visual C# Examples\46_SPEECHSynth\SpeechSynth\bin\Debug\SpeechSynth.exe.config
+C:\PROGRAMMING\_Visual C# Examples\46_SPEECHSynth\SpeechSynth\bin\Debug\SpeechSynth.exe
+C:\PROGRAMMING\_Visual C# Examples\46_SPEECHSynth\SpeechSynth\bin\Debug\SpeechSynth.pdb
+C:\PROGRAMMING\_Visual C# Examples\46_SPEECHSynth\SpeechSynth\obj\Debug\SpeechSynth.exe
+C:\PROGRAMMING\_Visual C# Examples\46_SPEECHSynth\SpeechSynth\obj\Debug\SpeechSynth.pdb
